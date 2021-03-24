@@ -4,6 +4,10 @@
 - With ESLint (using the recommended rules)
 - With HTMLHint (for HTML Linting)
 
+## CSS
+
+- Roboto font included
+
 ## Usage
 
 - Use this template from GitHub to create a new repository under your user
