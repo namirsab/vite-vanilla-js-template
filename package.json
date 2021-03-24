@@ -7,6 +7,7 @@
     "serve": "vite preview"
   },
   "devDependencies": {
+    "htmlhint": "^0.14.2",
     "vite": "^2.1.0"
   }
 }
